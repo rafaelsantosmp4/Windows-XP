@@ -9,5 +9,5 @@ Those involved in the project are:
   <li>Caio Custodio Parolin</li>
   <li>Leonardo Moreira Nakashima Monteiro</li>
   <li>Rafael Santos Rodrigues</li>
-  <li>Rebeca Martins Caroba</li>
+  <li><a href="github.com/rebecacaroba" target="_blank">Rebeca Martins Caroba</a></li>
 </ul>
