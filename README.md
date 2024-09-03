@@ -1,4 +1,4 @@
-> overview: https://windowsxp-etec.netlify.app
+https://rafaelsantosmp4.github.io/Windows-XP/
 
 ## Screen 📱
 ![Index.html](./midias/windows.png)
